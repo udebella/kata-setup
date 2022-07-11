@@ -1,0 +1,23 @@
+{
+  "name": "kata-setup",
+  "version": "1.0.0",
+  "description": "Repository to register common setups for katas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelionvert/kata-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelionvert/kata-setup/issues"
+  },
+  "homepage": "https://github.com/lelionvert/kata-setup#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
